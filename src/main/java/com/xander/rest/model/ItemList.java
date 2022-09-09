@@ -1,8 +1,9 @@
-package com.example.shop.model;
+package com.xander.rest.model;
 import java.util.ArrayList; // import the ArrayList class
 
 public class ItemList {
     private ArrayList<Item> itemList;
+    private Item item;
 
     public ItemList(){
          this.itemList= new ArrayList<Item>();

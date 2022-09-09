@@ -1,4 +1,4 @@
-package com.example.shop.model;
+package com.xander.rest.model;
 
 public class Item {
 
